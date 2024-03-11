@@ -58,8 +58,14 @@ By choosing the appropriate program number when prompted, each program can be ex
 
 ## Author
 
-- Name: Deeksitha.M
+- Name: Deekshitha.M
 - USN: 4MH21CS018
 - Faculty Name: Victor Ikechukwu Agughasi
+
+-   ## Contributer
+  [victor Ikechukwu Agughasi](https://github.com/Victor-Ikechukwu )
+  
+  [Deekshitha M](https://github.com/deekshitha24)
+  
 
 
